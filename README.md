@@ -12,8 +12,8 @@ Feel free to check out my detailed **work experience** directly on my [website](
 *I’m looking for opportunities to collaborate on data management and visualization in an **analyst** role.*   
 In the meantime, I’m currently focused on learning SQL, BI tools, and statistics to improve my analytical skills.
 
-📫 Kindly reach me online!
-[gmail](mailto:zahrasiti016@gmail.com) : zahrasiti016@gmail.com
+📫 Kindly reach me online!   
+[gmail](mailto:zahrasiti016@gmail.com) : zahrasiti016@gmail.com   
 LinkedIn : [siti-zahro](https://www.linkedin.com/in/siti-zahro/)
 
 ## Thanks for visiting my GitHub profile!😄
