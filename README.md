@@ -14,7 +14,7 @@ And I share my progression of self-project in this GitHub profile of mine.
 In the meantime, I’m currently focused on learning SQL, BI tools, and statistics to improve my analytical skills.   
 Feel free to check out my detailed *work experience* directly on my **[website](https://szahra.framer.website/)** ya!
 
-📫 Kindly reach me on [LinkedIn](https://www.linkedin.com/in/siti-zahro/) or zahrasiti016@gmail.com
+📫 Kindly reach me on [LinkedIn](https://www.linkedin.com/in/siti-zahro/) or zahrasiti016@gmail.com!
 
 ---
 ### 😄Thanks for visiting my GitHub profile!
