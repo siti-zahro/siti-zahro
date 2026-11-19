@@ -17,4 +17,4 @@ Feel free to check out my detailed *work experience* directly on my **[website](
 📫 Kindly reach me on [LinkedIn](https://www.linkedin.com/in/siti-zahro/) or zahrasiti016@gmail.com!
 
 ---
-### 😄Thanks for visiting my GitHub profile!
+### 😄 Thanks for visiting my GitHub profile!
