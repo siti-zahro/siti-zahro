@@ -14,7 +14,7 @@ In the meantime, I’m currently focused on learning SQL, BI tools, and statisti
 Feel free to check out my detailed *work experience* directly on my **[website](https://szahra.framer.website/)** ya!
 
 📫 Kindly reach me online!   
-[gmail](mailto:zahrasiti016@gmail.com) : zahrasiti016@gmail.com   
+Gmail: zahrasiti016@gmail.com   
 LinkedIn : [siti-zahro](https://www.linkedin.com/in/siti-zahro/)
 
 ## Thanks for visiting my GitHub profile!😄
