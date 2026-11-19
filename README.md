@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 I'm just learning to use Data Analytics tool most-used-internationally since I didn't use the common tools at my previous company.   
-And I share my progression of self-project in this GitHub profile of mine.   
+And I share my progression of self-project in this GitHub profile of mine.
+
 ---
 *I’m looking for opportunities to collaborate on data management and visualization in an **analyst** role.*   
 
